@@ -46,7 +46,7 @@ make
 To test the code, run this command:
 
 ```sh
-./a.out 
+./Draw.out 
 ```
 
 Example Input:
