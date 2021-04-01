@@ -2,17 +2,17 @@
 
 ## Walla Walla University -- Department of Computer Science
 
-_Name:_ ?
+_Name:_ Adam Taylor
 
 _Course:_ CPTR242
 
-_Assignment:_ ?
+_Assignment:_ 1
 
-_Date:_ ?
+_Date:_ 3/31/2021
 
-_Estimated:_ ?
+_Estimated:_ 4 hours
 
-_Actual Time:_ ?
+_Actual Time:_ 
 
 ---
 
@@ -23,6 +23,6 @@ I hereby certify that the code included in this assignment is ENTIRELY my own or
 
 ---
 
-_Digital Signature:_ ???
+_Digital Signature:_ Adam Taylor
 
 (Type name or include signature image)
