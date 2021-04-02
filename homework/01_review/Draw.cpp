@@ -22,17 +22,21 @@ void Draw::drawLine(int row, int col, int row2, int col2, char character) {
   int row2Temp = row2;
   int colTemp = col;
   int col2Temp = col2;
-  for(int i = 0; i < 20; i++){
+  //fill in points left of the original 2 point's center point
+  for(int i = 0; i < 4; i++){
     int centerRow = (row+row2Temp)/2;
     int centerCol = (col+col2Temp)/2;
     board[centerRow][centerCol] = character;
+    board[(centerRow+row2)/2][(centerCol+col2)/2] = character;
     row2Temp = centerRow;
     col2Temp = centerCol;
   }
-  for(int i = 0; i < 20; i++){
+  //fill in points right of the original 2 point's center point
+  for(int i = 0; i < 4; i++){
     int centerRow = (rowTemp+row2)/2;
     int centerCol = (colTemp+col2)/2;
     board[centerRow][centerCol] = character;
+    board[(centerRow+row)/2][(centerCol+col)/2] = character;
     rowTemp = centerRow;
     colTemp = centerCol;
   }
