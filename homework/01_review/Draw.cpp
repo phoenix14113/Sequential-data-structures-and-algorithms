@@ -25,7 +25,7 @@ void Draw::drawLine(int row, int col, int row2, int col2, char character) {
 
   // fill in points left of the original 2 point's center point
   if ((row <= row2 && col <= col2) || (row2 <= row && col2 <= col)) {
-    for (int i = 0; i < 3; i++) {
+    for (int i = 0; i < 4; i++) {
       int centerRow = (row + row2Temp) / 2;
       int centerCol = (col + col2Temp) / 2;
       board[centerRow][centerCol] = character;
@@ -34,7 +34,7 @@ void Draw::drawLine(int row, int col, int row2, int col2, char character) {
       col2Temp = centerCol;
     }
     // fill in points right of the original 2 point's center point
-    for (int i = 0; i < 3; i++) {
+    for (int i = 0; i < 4; i++) {
       int centerRow = (rowTemp + row2) / 2;
       int centerCol = (colTemp + col2) / 2;
       board[centerRow][centerCol] = character;
@@ -47,7 +47,7 @@ void Draw::drawLine(int row, int col, int row2, int col2, char character) {
       int centerRow = (row + row2Temp) / 2;
       int centerCol = (col + col2Temp) / 2;
       board[centerRow][centerCol] = character;
-      // board[(centerRow+1 + row2) / 2][(centerCol + col2) / 2] = character;
+      board[(centerRow + 1 + row2) / 2][(centerCol + col2) / 2] = character;
       row2Temp = centerRow;
       col2Temp = centerCol;
     }
@@ -56,7 +56,7 @@ void Draw::drawLine(int row, int col, int row2, int col2, char character) {
       int centerRow = (rowTemp + row2) / 2;
       int centerCol = (colTemp + col2) / 2;
       board[centerRow][centerCol] = character;
-      // board[(centerRow + row) / 2][(centerCol + col) / 2] = character;
+      board[(centerRow + 1 + row) / 2][(centerCol + col) / 2] = character;
       rowTemp = centerRow;
       colTemp = centerCol;
     }
