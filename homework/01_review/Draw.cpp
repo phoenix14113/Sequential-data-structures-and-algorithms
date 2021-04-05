@@ -45,40 +45,35 @@ void Draw::drawLine(int row, int col, int row2, int col2, char character) {
 }
 
 void Draw::drawRectangle(int row, int col, int row2, int col2, char character) {
-  if (col2 >= col) {
-    for (int i = 0; i <= col2 - col; i++) {
-      board[row][col + i] = character;
+    if(row > row2){
+        if(col > col2){
+            for(int i = row2; i <= row; i++){
+                for(int j = col2; j <= col; j++){
+                    board[i][j] = character;
+                }
+            }
+        }else{
+            for(int i = row2; i < row; i++){
+                for(int j = col; j <= col2; j++){
+                    board[i][j] = character;
+                }
+            }
+        }
+    }else{
+        if(col > col2){
+            for(int i = row; i <= row2; i++){
+                for(int j = col2; j < col; j++){
+                    board[i][j] = character;
+                }
+            }
+        }else{
+            for(int i = row; i <= row2; i++){
+                for(int j = col; j <= col2; j++){
+                    board[i][j] = character;
+                }
+            }
+        }
     }
-
-    for (int i = 0; i <= col2 - col; i++) {
-      board[row2][col + i] = character;
-    }
-  } else {
-    for (int i = 0; i <= col - col2; i++) {
-      board[row][col2 + i] = character;
-    }
-
-    for (int i = 0; i <= col - col2; i++) {
-      board[row2][col2 + i] = character;
-    }
-  }
-  if (row2 >= row) {
-    for (int i = 0; i <= row2 - row; i++) {
-      board[row+i][col] = character;
-    }
-
-    for (int i = 0; i <= row2 - row; i++) {
-      board[row+i][col2] = character;
-    }
-  }else{
-    for (int i = 0; i <= row - row2; i++) {
-      board[row2+i][col] = character;
-    }
-
-    for (int i = 0; i <= row - row2; i++) {
-      board[row2+i][col2] = character;
-    }      
-  }
 }
 
 void Draw::drawFun() {
