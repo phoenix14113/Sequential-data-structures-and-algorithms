@@ -28,7 +28,7 @@ int BinarySearch(int *numbers, int numbersSize, int key) {
 
 int main() {
   // TODO Change numbers to play with input size
-  int numbers[] = {2, 4, 7, 10, 11, 32, 45, 87};
+  int numbers[] = {10,19,21,25,28,31,32,33,34,47,50,50,54,65,66,69,75,85,96};
   int numbersSize = sizeof(numbers) / sizeof(numbers[0]);
   cout << "NUMBERS: [" << numbers[0];
   for (int i = 1; i < numbersSize; i++) {
