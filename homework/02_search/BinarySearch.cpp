@@ -33,11 +33,11 @@ void BinarySearch::Search(std::vector<ItemType> list, ItemType key,
       location = listMid;
       break;
     }
-    if(location != -2){
-        break;
+    if (location != -2) {
+      break;
     }
   }
-  if(location == -2){
-      location = -1;
+  if (location == -2) {
+    location = -1;
   }
 }
