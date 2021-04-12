@@ -16,7 +16,7 @@ void BinarySearch::Search(std::vector<ItemType> list, ItemType key,
                           int &location, int &comparisons) {
   comparisons = 0;
   location = -2;
-  int listMax = list.size();
+  int listMax = list.max_size()-1;
   int listMin = 0;
   int listMid = 0;
   while (listMax >= listMin) {
