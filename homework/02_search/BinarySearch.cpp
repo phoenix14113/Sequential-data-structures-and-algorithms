@@ -3,9 +3,9 @@
  * Assignment: Searching
  *
  * File Name:   BinarySearch.cpp
- * Name:        ?
+ * Name:        Adam Taylor
  * Course:      CPTR 242
- * Date:        ?
+ * Date:        4/11/2021
  */
 #include "BinarySearch.h"
 #include "ItemType.h"

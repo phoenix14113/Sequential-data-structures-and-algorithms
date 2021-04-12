@@ -3,9 +3,9 @@
  * Assignment: Searching
  *
  * File Name:   LinearSearch.cpp
- * Name:        ?
+ * Name:        Adam Taylor
  * Course:      CPTR 242
- * Date:        ?
+ * Date:        4/11/2021
  */
 #include "LinearSearch.h"
 #include "ItemType.h"
