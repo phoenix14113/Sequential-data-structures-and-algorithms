@@ -41,7 +41,7 @@ string ArrayToString(int* array, int arraySize) {
 
 int main() {
    // Create an array of numbers to sort
-   int numbers[] = { 10, 2, 78, 4, 45, 32, 7, 11 };
+   int numbers[] = { 10, 2, 78, 2, 45, 32, 7, 11 };
    int numbersSize = sizeof(numbers) / sizeof(numbers[0]);
       
    // Display the contents of the array
