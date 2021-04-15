@@ -24,5 +24,9 @@ public:
 
 private:
   // TODO Add any necessary private functions
+  void merge(std::vector<ItemType> &list, int &comparisons, int &writes,
+             int leftFirst, int leftLast, int rightLast);
+  void mergesort(std::vector<ItemType> &list, int &comparisons, int &writes,
+                 int startIndex, int endIndex);
 };
 #endif // MERGE_SORT_H

@@ -23,5 +23,9 @@ public:
   // comparisons has the number comparisons and writes made during the sort.
 private:
   // TODO Add any necessary private functions
+  void quicksort(std::vector<ItemType> &list, int &comparisons, int &writes,
+                 int startIndex, int endIndex);
+  int Partition(std::vector<ItemType> &list, int &comparisons, int &writes,
+                int startIndex, int endIndex);
 };
 #endif // QUICK_SORT_H
