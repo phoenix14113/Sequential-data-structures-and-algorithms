@@ -2,13 +2,13 @@
 
 ## Walla Walla University -- Department of Computer Science
 
-_Name:_ ?
+_Name:_ Adam Taylor
 
 _Course:_ CPTR242
 
-_Assignment:_ ?
+_Assignment:_ 3
 
-_Date:_ ?
+_Date:_ 
 
 _Estimated:_ ?
 

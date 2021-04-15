@@ -11,3 +11,6 @@
 #include "ItemType.h"
 
 // TODO implement search
+void MergeSort::sort(std::vector<ItemType> &list, int &comparisons, int &writes){
+    int test;
+}
