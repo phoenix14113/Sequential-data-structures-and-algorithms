@@ -8,6 +8,8 @@ Note that the visualization will also be a means to debug your program, as it wi
 This dataset contains a collection of game reviews at IGN and is adapted from Reddit User: CDanger (Twitter: @coreyaustinhere), who scraped the data from IGN's website.
 The driver will be managing the game review details so you can focus on adding operation to the sorted list.
 
+![Sample Game Visualization](game_visualization.png)
+
 ## Learning Objectives
 
 * Understanding of interval linked list structure
