@@ -4,7 +4,7 @@ SUBMITTY_CXXFLAGS = -I.
 
 ifneq ("$(wildcard SortDriver.cpp)","")
 	# Code.CS student settings
-	SRCS = InsertionSort.cpp MergeSort.cpp QuickSort.cpp SelectionSort.cpp ItemType.cpp sortMenu.cpp submitty_driver.cpp
+	SRCS = InsertionSort.cpp MergeSort.cpp QuickSort.cpp SelectionSort.cpp ItemType.cpp sortMenu.cpp SortDriver.cpp
 	EXE = Sort.out
 else ifneq ("$(submitty_driver.cpp)","")
 	# Submitty submission
