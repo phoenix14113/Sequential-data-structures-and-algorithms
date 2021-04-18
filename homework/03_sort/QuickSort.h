@@ -3,9 +3,9 @@
  * Assignment: Sorting
  *
  * File Name:   QuickSort.h
- * Name:        ?
+ * Name:        Adam Taylor
  * Course:      CPTR 242
- * Date:        ?
+ * Date:        4/14/2021
  */
 #ifndef QUICK_SORT_H
 #define QUICK_SORT_H

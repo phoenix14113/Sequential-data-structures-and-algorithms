@@ -3,9 +3,9 @@
  * Assignment: Sorting
  *
  * File Name:   InsertionSort.h
- * Name:        ?
+ * Name:        Adam Taylor
  * Course:      CPTR 242
- * Date:        ?
+ * Date:        4/14/2021
  */
 #ifndef INSERTION_SORT_H
 #define INSERTION_SORT_H

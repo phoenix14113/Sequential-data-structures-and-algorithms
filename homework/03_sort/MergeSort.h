@@ -3,9 +3,9 @@
  * Assignment: Sorting
  *
  * File Name:   MergeSort.h
- * Name:        ?
+ * Name:        Adam Taylor
  * Course:      CPTR 242
- * Date:        ?
+ * Date:        4/14/2021
  */
 #ifndef MERGE_SORT_H
 #define MERGE_SORT_H

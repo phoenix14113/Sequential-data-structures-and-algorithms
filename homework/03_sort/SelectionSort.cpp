@@ -3,9 +3,9 @@
  * Assignment: Sorting
  *
  * File Name:   SelectionSort.cpp
- * Name:        ?
+ * Name:        Adam Taylor
  * Course:      CPTR 242
- * Date:        ?
+ * Date:        4/17/2021
  */
 #include "SelectionSort.h"
 #include "ItemType.h"

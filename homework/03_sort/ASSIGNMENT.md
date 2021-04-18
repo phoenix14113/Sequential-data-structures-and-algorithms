@@ -8,11 +8,11 @@ _Course:_ CPTR242
 
 _Assignment:_ 3
 
-_Date:_ 
+_Date:_ 4/18/2021
 
 _Estimated:_ 5 hours
 
-_Actual Time:_ ?
+_Actual Time:_ 3 hours
 
 ---
 
