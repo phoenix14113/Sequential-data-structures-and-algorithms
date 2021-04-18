@@ -13,6 +13,8 @@
 // TODO implement search
 void MergeSort::sort(std::vector<ItemType> &list, int &comparisons,
                      int &writes) {
+  comparisons = 0;
+  writes = 0;
   mergesort(list, comparisons, writes, 0, list.size() - 1);
 }
 void MergeSort::merge(std::vector<ItemType> &list, int &comparisons,
