@@ -18,7 +18,6 @@ void InsertionSort::sort(std::vector<ItemType> &list, int &comparisons,
   for (int i = 1; i < list.size(); i++) {
     int j = i;
     bool continuation = true;
-    comparisons++;
     while (j > 0 && continuation) {
       // Swap numbers[j] and numbers [j - 1]
       comparisons++;
