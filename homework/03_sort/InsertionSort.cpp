@@ -25,6 +25,7 @@ void InsertionSort::sort(std::vector<ItemType> &list, int &comparisons,
       continuation = false;
       switch (list[j].ComparedTo(list[j - 1])) {
       case LESS:
+        comparisons++;
         writes += 3;
         temp = list[j];
         list[j] = list[j - 1];
