@@ -10,7 +10,6 @@
 #include "SelectionSort.h"
 #include "ItemType.h"
 
-
 // TODO implement search
 void SelectionSort::sort(std::vector<ItemType> &list, int &comparisons,
                          int &writes) {
@@ -40,4 +39,5 @@ void SelectionSort::sort(std::vector<ItemType> &list, int &comparisons,
     list[i] = list[indexSmallest];
     list[indexSmallest] = temp;
   }
+  writes += 3;
 }
