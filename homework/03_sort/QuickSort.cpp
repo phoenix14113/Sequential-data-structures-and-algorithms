@@ -36,8 +36,8 @@ void QuickSort::quicksort(std::vector<ItemType> &list, int &comparisons,
 int QuickSort::Partition(std::vector<ItemType> &list, int &comparisons,
                          int &writes, int startIndex, int endIndex) {
   // Select the middle value as the pivot.
-  int pivot = startIndex + (endIndex - startIndex) / 2;
-
+  int midpoint = startIndex + (endIndex - startIndex) / 2;
+  ItemType pivot = list[midpoint];
   // "low" and "high" start at the ends of the partition
   // and move toward each other.
   int low = startIndex;
@@ -49,14 +49,11 @@ int QuickSort::Partition(std::vector<ItemType> &list, int &comparisons,
     bool moveon = false;
     while (!moveon) {
       comparisons++;
-      switch (list[low].ComparedTo(list[pivot])) {
+      switch (list[low].ComparedTo(pivot)) {
       case LESS:
         low = low + 1;
         break;
       case GREATER:
-        // Do something for greater than
-        moveon = true;
-        break;
       case EQUAL:
         // Do something for equal
         moveon = true;
@@ -67,14 +64,11 @@ int QuickSort::Partition(std::vector<ItemType> &list, int &comparisons,
     // Decrement high while pivot < numbers[high]
     while (!moveon) {
       comparisons++;
-      switch (list[pivot].ComparedTo(list[high])) {
+      switch (pivot.ComparedTo(list[high])) {
       case LESS:
         high = high - 1;
         break;
       case GREATER:
-        // Do something for greater than
-        moveon = true;
-        break;
       case EQUAL:
         // Do something for equal
         moveon = true;
