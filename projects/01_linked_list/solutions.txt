@@ -1,0 +1,16 @@
+Student Test
+Game Minecraft was inserted into the list.
+Game Minecraft was found.
+PC
+Action, 
+9.000000
+Minecraft is deleted.
+PrintList: 
+  ** List is empty.
+All games have been added.
+Game Portal was found.
+PC
+Shooter, 
+8.200000
+List has been emptied.
+List has 0 items.

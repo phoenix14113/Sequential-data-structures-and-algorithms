@@ -85,7 +85,7 @@ public:
 
 private:
   SLelement<std::string> *listData;
-  int length;
+  int length = 0;
   SLelement<std::string> *currentPos;
 };
 
