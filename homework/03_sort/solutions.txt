@@ -1,9 +1,4 @@
 Student Test
-list_micro.txt has loaded 6 items.
-Merge Sort performed 11 comparisons, 32 writes.
-[2, 6, 14, 19, 23, 51]
-List has been cleared 
-list_micro.txt has loaded 6 items.
-Quick Sort performed 34 comparisons, 41 writes.
-[2, 6, 14, 19, 23, 51]
-Testing completed.
+list_micro.txt has loaded 23 items.
+Quick Sort performed 135 comparisons, 15 writes.
+[2, 6, 14, 16, 19, 23, 46, 49, 51, 60, 60, 69, 76, 76, 93, 104, 141, 142, 143, 144, 153, 181, 199]

@@ -1,4 +1,0 @@
-InputTest
-LoadListFromFile list_micro.txt
-SelectionSort
-PrintList
