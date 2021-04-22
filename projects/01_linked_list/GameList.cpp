@@ -64,8 +64,8 @@ void GameList::PutGame(std::string title, std::string gameDetails,
                        double rating) {
   // TODO Add code here.
   SLelement<std::string> *newGame = new SLelement<std::string>;
-  newGame->setLabel(title);
-  newGame->setValue(gameDetails);
+  newGame->setLabel(title + "\n" + gameDetails);
+  newGame->setValue(title);
 
   if (length == 0) {
     listData = newGame;
@@ -76,15 +76,15 @@ void GameList::PutGame(std::string title, std::string gameDetails,
     for (int i = 1; i <= length; i++) {
       // std::cout << "hi" << std::endl;
 
-      if (currentPos->getLabel() > title &&
-          currentPos->getLabel() == listData->getLabel()) {
+      if (currentPos->getValue() > title &&
+          currentPos->getValue() == listData->getValue()) {
 
         newGame->setNext(currentPos);
         previous->setNext(newGame);
         listData = newGame;
         length++;
         break;
-      } else if (currentPos->getLabel() > title) {
+      } else if (currentPos->getValue() > title) {
         // std::cout << "hi" << std::endl;
         newGame->setNext(currentPos);
         previous->setNext(newGame);
@@ -110,12 +110,12 @@ void GameList::GetGame(std::string title, std::string &gameDetails,
   found = false;
   SLelement<std::string> *previous = nullptr;
   for (int i = 0; i < length; i++) {
-    if (currentPos->getLabel() == title) {
+    if (currentPos->getValue() == title) {
       gameDetails = currentPos->getValue();
       found = true;
       ResetList();
       return;
-    } else if (currentPos->getLabel() > title) {
+    } else if (currentPos->getValue() > title) {
       ResetList();
       return;
     }
@@ -129,7 +129,7 @@ void GameList::DeleteGame(std::string title) {
   SLelement<std::string> *previous = nullptr;
   SLelement<std::string> *current = listData;
   for (int i = 0; i < length; i++) {
-    if (current->getLabel() == title) {
+    if (current->getValue() == title) {
       if (current = listData) {
         listData = current->getNext();
         delete current;
@@ -141,7 +141,7 @@ void GameList::DeleteGame(std::string title) {
         length--;
         break;
       }
-    } else if (current->getLabel() > title) {
+    } else if (current->getValue() > title) {
       break;
     }
     previous = current;
@@ -157,7 +157,7 @@ void GameList::ResetList() {
 
 void GameList::GetNextGame(std::string &title, std::string &gameDetails) {
   // TODO Add code here.
-  title = currentPos->getLabel();
-  gameDetails = currentPos->getValue();
+  title = currentPos->getValue();
+  gameDetails = currentPos->getLabel();
   currentPos = currentPos->getNext();
 }

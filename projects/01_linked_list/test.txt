@@ -1,0 +1,9 @@
+PutGame Minecraft
+PutGame Tetris
+GetLength
+PrintList
+Visualize
+AddX 100
+GetLength
+Visualize
+Quit
