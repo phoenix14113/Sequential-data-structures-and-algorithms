@@ -14,6 +14,1617 @@ Wireless
 Puzzle, 
 6.500000
 List was visualized.
-Added 100 games.
-List has 102 items.
+Added 320 games.
+PrintList: 
+  1. 3-D Ultra NASCAR Pinball
+3-D Ultra NASCAR Pinball
+PC
+Pinball, 
+3.000000
+  2. A-Train
+A-Train
+PlayStation
+Strategy, 
+6.000000
+  3. A.P.B.
+A.P.B.
+Lynx
+Action, 
+8.500000
+  4. Ace Combat 2
+Ace Combat 2
+PlayStation
+Flight, Action, 
+9.000000
+  5. Addiction Pinball
+Addiction Pinball
+PC
+Pinball, 
+8.000000
+  6. Advanced Dungeons &amp; Dragons: Iron &amp; Blood -- Warriors of Ravenloft
+Advanced Dungeons &amp; Dragons: Iron &amp; Blood -- Warriors of Ravenloft
+PlayStation
+Fighting, 
+4.000000
+  7. Air Combat
+Air Combat
+PlayStation
+Flight, Action, 
+7.000000
+  8. Alexi Lalas International Soccer
+Alexi Lalas International Soccer
+PlayStation
+Sports, 
+5.500000
+  9. Alone in the Dark: One Eyed Jacks Revenge
+Alone in the Dark: One Eyed Jacks Revenge
+PlayStation
+Adventure, 
+6.000000
+  10. Alundra
+Alundra
+PlayStation
+Action, RPG, 
+8.500000
+  11. Animaniacs Ten Pin Alley
+Animaniacs Ten Pin Alley
+PlayStation
+Sports, 
+7.100000
+  12. Apache Havoc: Enemy Engaged
+Apache Havoc: Enemy Engaged
+PC
+Simulation, 
+7.100000
+  13. Apocalypse
+Apocalypse
+PlayStation
+Action, 
+7.000000
+  14. Apollo 18: The Moon Missions
+Apollo 18: The Moon Missions
+PC
+Simulation, 
+4.200000
+  15. Aquanauts Holiday
+Aquanauts Holiday
+PlayStation
+Simulation, 
+8.000000
+  16. Arcades Greatest Hits: The Atari Collection 1
+Arcades Greatest Hits: The Atari Collection 1
+PlayStation
+Compilation, 
+7.000000
+  17. Armored Core
+Armored Core
+PlayStation
+Action, 
+8.000000
+  18. Assault Rigs
+Assault Rigs
+PlayStation
+Action, 
+6.000000
+  19. Austin Powers Operation: Trivia
+Austin Powers Operation: Trivia
+PC
+Puzzle, 
+8.000000
+  20. Awesome Golf
+Awesome Golf
+Lynx
+Sports, 
+9.000000
+  21. Azure Dreams
+Azure Dreams
+PlayStation
+RPG, 
+7.000000
+  22. BRAHMA Force: The Assault On Beltlogger 9
+BRAHMA Force: The Assault On Beltlogger 9
+PlayStation
+Action, 
+7.000000
+  23. Barrage
+Barrage
+PC
+Action, 
+3.700000
+  24. Battle Arena Toshinden
+Battle Arena Toshinden
+PlayStation
+Fighting, 
+7.000000
+  25. Battle Arena Toshinden 2
+Battle Arena Toshinden 2
+PlayStation
+Fighting, 
+6.000000
+  26. Battle Arena Toshinden 3
+Battle Arena Toshinden 3
+PlayStation
+Fighting, 
+6.300000
+  27. Battlesport
+Battlesport
+PlayStation
+Action, 
+6.000000
+  28. Beast Wars: Transformers 
+Beast Wars: Transformers 
+PlayStation
+Action, 
+2.300000
+  29. Beavis and Butt-Head: Bunghole in One
+Beavis and Butt-Head: Bunghole in One
+PC
+Sports, 
+4.400000
+  30. Beetle Adventure Racing
+Beetle Adventure Racing
+Nintendo 64
+Racing, 
+9.100000
+  31. Big Air
+Big Air
+PlayStation
+Sports, 
+6.500000
+  32. Bio F.R.E.A.K.S.
+Bio F.R.E.A.K.S.
+Nintendo 64
+Action, 
+6.400000
+  33. Blast Corps 
+Blast Corps 
+Nintendo 64
+Action, 
+9.000000
+  34. Blood Omen: Legacy of Kain
+Blood Omen: Legacy of Kain
+PlayStation
+Action, RPG, 
+8.500000
+  35. Boggle Plus
+Boggle Plus
+Game Boy
+Puzzle, 
+6.000000
+  36. Bomberman 64
+Bomberman 64
+Nintendo 64
+Action, 
+7.600000
+  37. Bottom of the 9th 
+Bottom of the 9th 
+PlayStation
+Sports, 
+8.000000
+  38. Brave Fencer Musashi
+Brave Fencer Musashi
+PlayStation
+Adventure, 
+8.500000
+  39. Breath of Fire III 
+Breath of Fire III 
+PlayStation
+RPG, 
+7.500000
+  40. Buck Bumble
+Buck Bumble
+Nintendo 64
+Action, 
+7.200000
+  41. Bug Riders
+Bug Riders
+PlayStation
+Racing, 
+3.000000
+  42. Bugs Bunny: Lost in Time
+Bugs Bunny: Lost in Time
+PlayStation
+Action, 
+7.800000
+  43. Bushido Blade
+Bushido Blade
+PlayStation
+Fighting, 
+8.700000
+  44. Bushido Blade 2
+Bushido Blade 2
+PlayStation
+Fighting, 
+7.000000
+  45. Bust-A-Move 2: Arcade Edition
+Bust-A-Move 2: Arcade Edition
+PlayStation
+Puzzle, 
+8.000000
+  46. Bust-A-Move 99
+Bust-A-Move 99
+Nintendo 64
+Puzzle, 
+8.200000
+  47. CART World Series
+CART World Series
+PlayStation
+Racing, 
+7.000000
+  48. Caesars Palace
+Caesars Palace
+PlayStation
+Casino, 
+6.000000
+  49. California Speed
+California Speed
+Nintendo 64
+Racing, 
+4.200000
+  50. Carnage Heart
+Carnage Heart
+PlayStation
+Strategy, 
+9.200000
+  51. Carnivores
+Carnivores
+PC
+Action, 
+7.300000
+  52. Castlevania [1999]
+Castlevania [1999]
+Nintendo 64
+Action, Adventure, 
+8.200000
+  53. Chameleon Twist
+Chameleon Twist
+Nintendo 64
+Platformer, 
+6.500000
+  54. Charlie Blasts Territory
+Charlie Blasts Territory
+Nintendo 64
+Puzzle, 
+6.900000
+  55. Chopper Attack
+Chopper Attack
+Nintendo 64
+Action, 
+5.600000
+  56. ClayFighter 63 1/3
+ClayFighter 63 1/3
+Nintendo 64
+Fighting, 
+3.700000
+  57. Close Combat III: The Russian Front
+Close Combat III: The Russian Front
+PC
+Strategy, 
+9.000000
+  58. Codename: Tenka
+Codename: Tenka
+PlayStation
+Shooter, 
+7.000000
+  59. Command &amp; Conquer (1997)
+Command &amp; Conquer (1997)
+PlayStation
+Strategy, 
+8.000000
+  60. Commandos: Beyond the Call of Duty
+Commandos: Beyond the Call of Duty
+PC
+Strategy, 
+7.900000
+  61. Contender
+Contender
+PlayStation
+Sports, 
+3.000000
+  62. Cool Boarders 3
+Cool Boarders 3
+PlayStation
+Sports, 
+6.000000
+  63. Crime Killer 
+Crime Killer 
+PlayStation
+Action, 
+5.000000
+  64. Critical Depth
+Critical Depth
+PlayStation
+Action, 
+5.000000
+  65. CyberSpeed
+CyberSpeed
+PlayStation
+Racing, 
+5.000000
+  66. Cyberia
+Cyberia
+PlayStation
+Action, 
+6.000000
+  67. DEFCON 5
+DEFCON 5
+PlayStation
+Action, 
+7.000000
+  68. Dark Rift
+Dark Rift
+Nintendo 64
+Fighting, 
+5.400000
+  69. Dead or Alive
+Dead or Alive
+PlayStation
+Fighting, 
+8.500000
+  70. Deception: Invitation to Darkness
+Deception: Invitation to Darkness
+PlayStation
+Strategy, 
+7.000000
+  71. Deep Sea Trophy Fishing
+Deep Sea Trophy Fishing
+PC
+Hunting, 
+1.800000
+  72. Delta Force 
+Delta Force 
+PC
+Shooter, 
+8.700000
+  73. Descent Maximum
+Descent Maximum
+PlayStation
+Action, 
+7.500000
+  74. Destrega
+Destrega
+PlayStation
+Fighting, 
+5.500000
+  75. Destruction Derby 2
+Destruction Derby 2
+PlayStation
+Racing, 
+7.200000
+  76. Discworld
+Discworld
+PlayStation
+Adventure, 
+7.000000
+  77. Dominion: Storm Over Gift 3
+Dominion: Storm Over Gift 3
+PC
+Strategy, 
+4.000000
+  78. Doraemon Nobita &amp; The 3 Fairy Spirit Stones
+Doraemon Nobita &amp; The 3 Fairy Spirit Stones
+Nintendo 64
+Platformer, 
+3.000000
+  79. Dragon Ball GT Final Bout
+Dragon Ball GT Final Bout
+PlayStation
+Fighting, 
+3.000000
+  80. Dragon Seeds
+Dragon Seeds
+PlayStation
+RPG, 
+6.900000
+  81. Duke Nukem 64
+Duke Nukem 64
+Nintendo 64
+Shooter, 
+8.000000
+  82. Duke Nukem: Time to Kill
+Duke Nukem: Time to Kill
+PlayStation
+Action, 
+8.000000
+  83. Duke Nukem: Total Meltdown
+Duke Nukem: Total Meltdown
+PlayStation
+Shooter, 
+7.000000
+  84. Einhander
+Einhander
+PlayStation
+Shooter, 
+9.000000
+  85. Epidemic
+Epidemic
+PlayStation
+Action, 
+4.000000
+  86. EverQuest
+EverQuest
+PC
+RPG, 
+8.400000
+  87. Excalibur 2555 AD
+Excalibur 2555 AD
+PlayStation
+Action, 
+3.000000
+  88. Extreme Boards &amp; Blades
+Extreme Boards &amp; Blades
+PC
+Sports, 
+1.500000
+  89. Extreme Watersports 
+Extreme Watersports 
+PC
+Sports, 
+1.000000
+  90. Extreme-G 2
+Extreme-G 2
+Nintendo 64
+Racing, 
+6.900000
+  91. FIFA Road to World Cup 98
+FIFA Road to World Cup 98
+Nintendo 64
+Sports, 
+7.700000
+  92. FIFA Road to World Cup 98 
+FIFA Road to World Cup 98 
+PlayStation
+Sports, 
+8.500000
+  93. FIFA Soccer 64
+FIFA Soccer 64
+Nintendo 64
+Sports, 
+4.200000
+  94. FIFA Soccer 96
+FIFA Soccer 96
+PlayStation
+Sports, 
+7.800000
+  95. Fighter Squadron: Screamin Demons Over Europe 
+Fighter Squadron: Screamin Demons Over Europe 
+PC
+Simulation, 
+7.200000
+  96. Fighters Destiny
+Fighters Destiny
+Nintendo 64
+Fighting, 
+8.000000
+  97. Final Fantasy VII
+Final Fantasy VII
+PlayStation
+RPG, 
+9.500000
+  98. Fleet Command
+Fleet Command
+PC
+Strategy, 
+6.800000
+  99. Flesh Feast
+Flesh Feast
+PC
+Action, 
+5.000000
+  100. Flying Dragon
+Flying Dragon
+Nintendo 64
+Fighting, 
+5.000000
+  101. Formula 1: Championship Edition
+Formula 1: Championship Edition
+PlayStation
+Racing, 
+9.000000
+  102. Forsaken
+Forsaken
+PlayStation
+Action, 
+8.000000
+  103. Forsaken 64
+Forsaken 64
+Nintendo 64
+Action, 
+8.000000
+  104. Frank Thomas: Big Hurt Baseball
+Frank Thomas: Big Hurt Baseball
+PC
+Sports, 
+6.000000
+  105. Front Office Football
+Front Office Football
+PC
+Sports, Simulation, 
+8.000000
+  106. G Darius
+G Darius
+PlayStation
+Shooter, 
+8.000000
+  107. GT 64 Championship Edition
+GT 64 Championship Edition
+Nintendo 64
+Racing, 
+3.900000
+  108. Gangsters: Organized Crime
+Gangsters: Organized Crime
+PC
+Strategy, 
+8.500000
+  109. Global Domination
+Global Domination
+PC
+Strategy, 
+3.600000
+  110. Golden Nugget 64
+Golden Nugget 64
+Nintendo 64
+Simulation, 
+7.800000
+  111. Gran Turismo [1998]
+Gran Turismo [1998]
+PlayStation
+Racing, 
+9.500000
+  112. Grand Theft Auto: London 1969
+Grand Theft Auto: London 1969
+PlayStation
+Action, 
+7.500000
+  113. Gruntz
+Gruntz
+PC
+Puzzle, 
+6.000000
+  114. Guardians Crusade
+Guardians Crusade
+PlayStation
+RPG, 
+8.500000
+  115. HardBall 5
+HardBall 5
+PlayStation
+Sports, 
+4.000000
+  116. HardBall 6
+HardBall 6
+PC
+Sports, 
+6.000000
+  117. Heavy Gear II
+Heavy Gear II
+PC
+Simulation, 
+8.400000
+  118. Hello Kittys Cube Frenzy 
+Hello Kittys Cube Frenzy 
+PlayStation
+Puzzle, 
+6.500000
+  119. Hot Shots Golf
+Hot Shots Golf
+PlayStation
+Sports, Action, 
+8.000000
+  120. Icarus: Sanctuary of the Gods
+Icarus: Sanctuary of the Gods
+PC
+RPG, 
+4.000000
+  121. International Superstar Soccer 98
+International Superstar Soccer 98
+Nintendo 64
+Sports, 
+9.100000
+  122. Interplay Sports Baseball 2000
+Interplay Sports Baseball 2000
+PlayStation
+Sports, 
+8.400000
+  123. Invasion From Beyond
+Invasion From Beyond
+PlayStation
+Action, 
+6.500000
+  124. Iron Man / XO Manowar in Heavy Metal
+Iron Man / XO Manowar in Heavy Metal
+PlayStation
+Action, 
+3.000000
+  125. Irritating Stick
+Irritating Stick
+PlayStation
+Action, 
+5.500000
+  126. Jeremy McGrath Supercross 98
+Jeremy McGrath Supercross 98
+PlayStation
+Racing, 
+5.000000
+  127. Jet Moto 2
+Jet Moto 2
+PlayStation
+Racing, 
+7.000000
+  128. Judge Dredd
+Judge Dredd
+PlayStation
+Shooter, 
+2.000000
+  129. K-1 The Arena Fighters
+K-1 The Arena Fighters
+PlayStation
+Fighting, 
+4.500000
+  130. Kartia
+Kartia
+PlayStation
+RPG, 
+8.000000
+  131. Killer Instinct Gold 
+Killer Instinct Gold 
+Nintendo 64
+Fighting, 
+6.500000
+  132. Kings Field
+Kings Field
+PlayStation
+RPG, 
+7.500000
+  133. Klax
+Klax
+Game Boy Color
+Puzzle, 
+8.000000
+  134. Knights and Merchants: The Shattered Kingdom
+Knights and Merchants: The Shattered Kingdom
+PC
+Strategy, 
+5.900000
+  135. Kobe Bryant in NBA Courtside
+Kobe Bryant in NBA Courtside
+Nintendo 64
+Sports, 
+7.800000
+  136. Krazy Ivan
+Krazy Ivan
+PlayStation
+Action, 
+6.000000
+  137. Legend of Legaia
+Legend of Legaia
+PlayStation
+RPG, 
+7.000000
+  138. Leisure Suit Larrys Casino
+Leisure Suit Larrys Casino
+PC
+Casino, 
+6.200000
+  139. Lemmings 3D
+Lemmings 3D
+PlayStation
+Strategy, 
+7.000000
+  140. Lemmings and Oh No! More Lemmings
+Lemmings and Oh No! More Lemmings
+PlayStation
+Puzzle, 
+7.000000
+  141. Loaded
+Loaded
+PlayStation
+Action, 
+7.500000
+  142. Luftwaffe Commander
+Luftwaffe Commander
+PC
+Simulation, 
+5.200000
+  143. Lunar: Silver Star Story Complete (Four Disc Collectors Edition) 
+Lunar: Silver Star Story Complete (Four Disc Collectors Edition) 
+PlayStation
+RPG, 
+7.500000
+  144. M.A.X. 2
+M.A.X. 2
+PC
+Strategy, 
+3.700000
+  145. MDK
+MDK
+PlayStation
+Action, 
+8.000000
+  146. MLB 2000
+MLB 2000
+PlayStation
+Sports, 
+8.900000
+  147. MLB 98
+MLB 98
+PlayStation
+Sports, 
+8.000000
+  148. MLB 99
+MLB 99
+PlayStation
+Sports, 
+7.000000
+  149. Machine Hunter
+Machine Hunter
+PlayStation
+Action, 
+5.000000
+  150. Madden NFL 98
+Madden NFL 98
+PlayStation
+Sports, 
+7.000000
+  151. Madden NFL 99
+Madden NFL 99
+PlayStation
+Sports, 
+8.500000
+  152. Magic &amp; Mayhem
+Magic &amp; Mayhem
+PC
+Strategy, 
+7.300000
+  153. Magic Carpet
+Magic Carpet
+PlayStation
+Action, 
+7.500000
+  154. Magic: The Gathering -- Battlemage
+Magic: The Gathering -- Battlemage
+PlayStation
+Strategy, 
+4.000000
+  155. Mario Party
+Mario Party
+Nintendo 64
+Party, 
+7.900000
+  156. Marvel Super Heroes vs. Street Fighter
+Marvel Super Heroes vs. Street Fighter
+PlayStation
+Fighting, 
+7.500000
+  157. Mass Destruction
+Mass Destruction
+PlayStation
+Action, 
+7.000000
+  158. Master of Monsters: Disciples of Gaia
+Master of Monsters: Disciples of Gaia
+PlayStation
+Strategy, 
+4.000000
+  159. Maximum Force
+Maximum Force
+PlayStation
+Shooter, 
+5.000000
+  160. Mega Man 8
+Mega Man 8
+PlayStation
+Action, 
+6.000000
+  161. Mega Man Legends
+Mega Man Legends
+PlayStation
+Action, Adventure, 
+8.400000
+  162. Micro Machines 64 Turbo
+Micro Machines 64 Turbo
+Nintendo 64
+Racing, 
+8.600000
+  163. Microsoft Golf 1999 Edition
+Microsoft Golf 1999 Edition
+PC
+Sports, 
+7.400000
+  164. Microsoft Pinball Arcade
+Microsoft Pinball Arcade
+PC
+Pinball, 
+5.200000
+  165. Mike Piazzas StrikeZone
+Mike Piazzas StrikeZone
+Nintendo 64
+Sports, 
+3.000000
+  166. Minecraft
+Minecraft
+PC
+Action, 
+9.000000
+  167. Mischief Makers
+Mischief Makers
+Nintendo 64
+Platformer, 
+6.200000
+  168. Monopoly [1998]
+Monopoly [1998]
+PlayStation
+Board, 
+3.000000
+  169. Moto Racer 2
+Moto Racer 2
+PlayStation
+Racing, 
+8.700000
+  170. Mystical Ninja Starring Goemon
+Mystical Ninja Starring Goemon
+Nintendo 64
+Action, Adventure, 
+7.600000
+  171. NASCAR 98
+NASCAR 98
+PlayStation
+Racing, 
+8.000000
+  172. NASCAR Revolution
+NASCAR Revolution
+PC
+Racing, 
+4.500000
+  173. NBA Hang Time
+NBA Hang Time
+Nintendo 64
+Sports, 
+5.400000
+  174. NBA In the Zone
+NBA In the Zone
+PlayStation
+Sports, 
+5.000000
+  175. NBA In the Zone 99
+NBA In the Zone 99
+Nintendo 64
+Sports, 
+5.600000
+  176. NBA Jam: Tournament Edition
+NBA Jam: Tournament Edition
+PlayStation
+Sports, 
+6.500000
+  177. NBA Live 97
+NBA Live 97
+PlayStation
+Sports, 
+8.000000
+  178. NBA Live 98
+NBA Live 98
+PlayStation
+Sports, 
+8.000000
+  179. NBA ShootOut 98
+NBA ShootOut 98
+PlayStation
+Sports, 
+8.800000
+  180. NCAA Football 98
+NCAA Football 98
+PlayStation
+Sports, 
+7.000000
+  181. NCAA GameBreaker
+NCAA GameBreaker
+PlayStation
+Sports, 
+6.800000
+  182. NCAA GameBreaker 98
+NCAA GameBreaker 98
+PlayStation
+Sports, 
+8.000000
+  183. NCAA GameBreaker 99
+NCAA GameBreaker 99
+PlayStation
+Sports, 
+8.500000
+  184. NCAA March Madness 98
+NCAA March Madness 98
+PlayStation
+Sports, 
+6.500000
+  185. NFL Blitz [1998]
+NFL Blitz [1998]
+PlayStation
+Sports, Action, 
+9.400000
+  186. NFL GameDay 97
+NFL GameDay 97
+PlayStation
+Sports, 
+7.800000
+  187. NFL Quarterback Club 97
+NFL Quarterback Club 97
+PlayStation
+Sports, 
+5.000000
+  188. NFL Quarterback Club 98
+NFL Quarterback Club 98
+Nintendo 64
+Sports, 
+7.800000
+  189. NHL 98
+NHL 98
+PlayStation
+Sports, 
+8.000000
+  190. NHL FaceOff 99
+NHL FaceOff 99
+PlayStation
+Sports, 
+8.800000
+  191. Namco Museum Vol. 5
+Namco Museum Vol. 5
+PlayStation
+Action, 
+6.000000
+  192. Need for Speed: High Stakes
+Need for Speed: High Stakes
+PlayStation
+Racing, 
+8.800000
+  193. Ninja: Shadow of Darkness
+Ninja: Shadow of Darkness
+PlayStation
+Action, 
+6.500000
+  194. O.D.T.: Escape... ...Or Die Trying
+O.D.T.: Escape... ...Or Die Trying
+PlayStation
+Action, 
+5.500000
+  195. Oddworld: Abes Oddysee
+Oddworld: Abes Oddysee
+PlayStation
+Adventure, 
+7.500000
+  196. Off-Road Challenge
+Off-Road Challenge
+Nintendo 64
+Racing, 
+2.500000
+  197. Olympic Summer Games: Atlanta 96
+Olympic Summer Games: Atlanta 96
+PlayStation
+Sports, 
+6.000000
+  198. One
+One
+PlayStation
+Action, 
+5.000000
+  199. Overblood
+Overblood
+PlayStation
+Adventure, 
+6.000000
+  200. PGA Tour 98
+PGA Tour 98
+PlayStation
+Sports, 
+7.000000
+  201. POed
+POed
+PlayStation
+Action, 
+8.000000
+  202. Panzer Commander
+Panzer Commander
+PC
+Simulation, 
+7.000000
+  203. Parappa The Rapper
+Parappa The Rapper
+PlayStation
+Music, 
+9.000000
+  204. Persona
+Persona
+PlayStation
+RPG, 
+7.500000
+  205. Peter Jacobsens Golden Tee Golf
+Peter Jacobsens Golden Tee Golf
+PC
+Sports, 
+7.200000
+  206. Pilotwings 64
+Pilotwings 64
+Nintendo 64
+Flight, 
+8.200000
+  207. Pitball
+Pitball
+PlayStation
+Action, 
+5.000000
+  208. Plane Crazy
+Plane Crazy
+PC
+Racing, 
+8.500000
+  209. Point Blank
+Point Blank
+PlayStation
+Action, 
+8.000000
+  210. Pokemon Stadium 2 [Japanese Version]
+Pokemon Stadium 2 [Japanese Version]
+Nintendo 64
+Battle, 
+8.100000
+  211. Pokemon Stadium [Japanese Version]
+Pokemon Stadium [Japanese Version]
+Nintendo 64
+Battle, 
+5.000000
+  212. Pro 18: World Tour Golf
+Pro 18: World Tour Golf
+PlayStation
+Sports, 
+3.000000
+  213. Pro Pilot 99
+Pro Pilot 99
+PC
+Simulation, 
+5.800000
+  214. Psychic Detective
+Psychic Detective
+PlayStation
+Adventure, 
+2.000000
+  215. Psychic Force
+Psychic Force
+PlayStation
+Fighting, 
+5.000000
+  216. Quake II Mission Pack: Ground Zero
+Quake II Mission Pack: Ground Zero
+PC
+Shooter, 
+7.500000
+  217. R-Types
+R-Types
+PlayStation
+Shooter, 
+6.000000
+  218. R4: Ridge Racer Type 4
+R4: Ridge Racer Type 4
+PlayStation
+Racing, 
+9.400000
+  219. Railroad Tycoon II
+Railroad Tycoon II
+PC
+Strategy, 
+8.900000
+  220. Rally Cross 2
+Rally Cross 2
+PlayStation
+Racing, 
+7.500000
+  221. Re-Loaded: The Hardcore Sequel
+Re-Loaded: The Hardcore Sequel
+PlayStation
+Action, 
+4.000000
+  222. ReBoot
+ReBoot
+PlayStation
+Action, 
+7.000000
+  223. Reah
+Reah
+PC
+Puzzle, Adventure, 
+5.000000
+  224. Recoil
+Recoil
+PC
+Action, 
+8.300000
+  225. Requiem: Avenging Angel
+Requiem: Avenging Angel
+PC
+Action, 
+6.700000
+  226. Resident Evil 2 (Platinum Edition)
+Resident Evil 2 (Platinum Edition)
+PC
+Action, Adventure, 
+6.800000
+  227. Return to Krondor 
+Return to Krondor 
+PC
+RPG, 
+7.400000
+  228. Rise 2: Resurrection
+Rise 2: Resurrection
+PlayStation
+Fighting, 
+2.000000
+  229. Rival Schools: United by Fate
+Rival Schools: United by Fate
+PlayStation
+Fighting, 
+8.000000
+  230. Riven: The Sequel to Myst
+Riven: The Sequel to Myst
+PlayStation
+Adventure, 
+7.000000
+  231. Robo Pit
+Robo Pit
+PlayStation
+Fighting, 
+6.500000
+  232. Roll Away
+Roll Away
+PlayStation
+Puzzle, Action, 
+8.900000
+  233. Rosco McQueen: Firefighter Extreme
+Rosco McQueen: Firefighter Extreme
+PlayStation
+Action, 
+4.500000
+  234. S.C.A.R.S.
+S.C.A.R.S.
+PlayStation
+Racing, 
+6.500000
+  235. SEGA Touring Car Championship
+SEGA Touring Car Championship
+PC
+Racing, 
+5.000000
+  236. Saga Frontier
+Saga Frontier
+PlayStation
+RPG, 
+7.000000
+  237. San Francisco Rush: Extreme Racing
+San Francisco Rush: Extreme Racing
+Nintendo 64
+Racing, 
+8.900000
+  238. Sanitarium 
+Sanitarium 
+PC
+Adventure, 
+7.000000
+  239. Shadow Master
+Shadow Master
+PlayStation
+Action, 
+4.000000
+  240. Shadowgate 64: Trials of the Four Towers
+Shadowgate 64: Trials of the Four Towers
+Nintendo 64
+Adventure, 
+6.200000
+  241. Shellshock
+Shellshock
+PlayStation
+Action, 
+7.000000
+  242. Shockwave Assault
+Shockwave Assault
+PlayStation
+Action, 
+4.000000
+  243. Shogo: Mobile Armor Division
+Shogo: Mobile Armor Division
+PC
+Action, 
+9.000000
+  244. SiN
+SiN
+PC
+Shooter, 
+7.000000
+  245. Sid Meiers Civilization II
+Sid Meiers Civilization II
+PlayStation
+Strategy, 
+8.800000
+  246. Silverload
+Silverload
+PlayStation
+Adventure, 
+6.000000
+  247. Skeleton Warriors
+Skeleton Warriors
+PlayStation
+Action, 
+5.000000
+  248. Skullmonkeys
+Skullmonkeys
+PlayStation
+Platformer, 
+6.000000
+  249. Small Soldiers
+Small Soldiers
+PlayStation
+Adventure, 
+7.200000
+  250. Snowboard Kids
+Snowboard Kids
+Nintendo 64
+Racing, 
+8.000000
+  251. Soviet Strike
+Soviet Strike
+PlayStation
+Action, 
+8.000000
+  252. Speed Racer
+Speed Racer
+PlayStation
+Racing, 
+5.000000
+  253. Sports Car GT
+Sports Car GT
+PlayStation
+Racing, 
+4.000000
+  254. Spot Goes to Hollywood
+Spot Goes to Hollywood
+PlayStation
+Platformer, 
+3.000000
+  255. Star Gladiator Episode 1: Final Crusade
+Star Gladiator Episode 1: Final Crusade
+PlayStation
+Fighting, 
+8.000000
+  256. Star Soldier: Vanishing Earth
+Star Soldier: Vanishing Earth
+Nintendo 64
+Action, 
+5.000000
+  257. Star Trek: The Next Generation: Birth of the Federation
+Star Trek: The Next Generation: Birth of the Federation
+PC
+Strategy, 
+5.500000
+  258. Star Wars: Rogue Squadron
+Star Wars: Rogue Squadron
+Nintendo 64
+Flight, Action, 
+8.800000
+  259. Star Wars: Rogue Squadron 3D
+Star Wars: Rogue Squadron 3D
+PC
+Flight, Action, 
+8.300000
+  260. Star Wars: Shadows of the Empire
+Star Wars: Shadows of the Empire
+Nintendo 64
+Action, 
+6.500000
+  261. Starship Titanic
+Starship Titanic
+PC
+Adventure, 
+4.900000
+  262. Starsiege
+Starsiege
+PC
+Simulation, 
+7.700000
+  263. Steel Reign
+Steel Reign
+PlayStation
+Action, 
+7.000000
+  264. Streak: Hoverboard Racing
+Streak: Hoverboard Racing
+PlayStation
+Racing, 
+4.500000
+  265. Street Fighter Collection 2
+Street Fighter Collection 2
+PlayStation
+Fighting, Compilation, 
+8.400000
+  266. Street Sk8er 
+Street Sk8er 
+PlayStation
+Sports, 
+7.000000
+  267. Suikoden
+Suikoden
+PlayStation
+RPG, 
+9.000000
+  268. Super B-Daman Battle Phoenix 64
+Super B-Daman Battle Phoenix 64
+Nintendo 64
+Action, 
+4.000000
+  269. Super Puzzle Fighter II Turbo
+Super Puzzle Fighter II Turbo
+PlayStation
+Puzzle, Action, 
+9.000000
+  270. Superman [1999]
+Superman [1999]
+Nintendo 64
+Action, 
+3.400000
+  271. Swagman
+Swagman
+PlayStation
+Action, 
+5.000000
+  272. Tales of Destiny
+Tales of Destiny
+PlayStation
+RPG, 
+7.500000
+  273. Tempest X3: An Inter-Galactic Battle Zone
+Tempest X3: An Inter-Galactic Battle Zone
+PlayStation
+Action, 
+8.000000
+  274. Tennis Arena
+Tennis Arena
+PlayStation
+Sports, 
+5.000000
+  275. Tetris
+Tetris
+Wireless
+Puzzle, 
+6.500000
+  276. Tetris 64
+Tetris 64
+Nintendo 64
+Puzzle, 
+8.400000
+  277. Tetris Plus
+Tetris Plus
+PlayStation
+Puzzle, 
+6.000000
+  278. Tetrisphere
+Tetrisphere
+Nintendo 64
+Puzzle, 
+8.000000
+  279. The Fifth Element
+The Fifth Element
+PlayStation
+Action, 
+5.000000
+  280. The Hive
+The Hive
+PlayStation
+Action, 
+3.000000
+  281. The Lost World: Jurassic Park
+The Lost World: Jurassic Park
+PlayStation
+Action, 
+5.000000
+  282. The Next Tetris
+The Next Tetris
+PlayStation
+Puzzle, 
+8.800000
+  283. The Smurfs Nightmare
+The Smurfs Nightmare
+Game Boy Color
+Platformer, 
+8.000000
+  284. Thunder Force V: Perfect System
+Thunder Force V: Perfect System
+PlayStation
+Action, 
+8.500000
+  285. Tiger Woods 99
+Tiger Woods 99
+PC
+Sports, 
+7.800000
+  286. Tobal No. 1
+Tobal No. 1
+PlayStation
+Fighting, 
+8.700000
+  287. Tokyo Highway Battle
+Tokyo Highway Battle
+PlayStation
+Racing, 
+7.000000
+  288. Tom Clancys Rainbow Six Mission Pack: Eagle Watch
+Tom Clancys Rainbow Six Mission Pack: Eagle Watch
+PC
+Action, 
+8.600000
+  289. Tomb Raider III: Adventures of Lara Croft 
+Tomb Raider III: Adventures of Lara Croft 
+PlayStation
+Adventure, 
+8.000000
+  290. Top Gun: Fire At Will
+Top Gun: Fire At Will
+PlayStation
+Simulation, 
+3.000000
+  291. Top Gun: Hornets Nest
+Top Gun: Hornets Nest
+PC
+Simulation, 
+5.100000
+  292. Total Eclipse Turbo
+Total Eclipse Turbo
+PlayStation
+Action, 
+4.000000
+  293. Trespasser
+Trespasser
+PC
+Action, 
+4.700000
+  294. Triple Play 2000
+Triple Play 2000
+Nintendo 64
+Sports, 
+5.400000
+  295. Triple Play 97
+Triple Play 97
+PlayStation
+Sports, 
+9.000000
+  296. Triple Play 98
+Triple Play 98
+PlayStation
+Sports, 
+9.200000
+  297. Turbo Prop Racing
+Turbo Prop Racing
+PlayStation
+Racing, 
+8.000000
+  298. Turok 2: Seeds of Evil
+Turok 2: Seeds of Evil
+Nintendo 64
+Shooter, 
+9.000000
+  299. Twisted Metal [1996]
+Twisted Metal [1996]
+PlayStation
+Action, 
+7.000000
+  300. Unholy War
+Unholy War
+PlayStation
+Strategy, 
+8.000000
+  301. V-Tennis
+V-Tennis
+PlayStation
+Sports, 
+4.000000
+  302. VR Baseball 2000
+VR Baseball 2000
+PC
+Sports, 
+6.000000
+  303. Vandal Hearts
+Vandal Hearts
+PlayStation
+RPG, 
+8.000000
+  304. Virtual Pool
+Virtual Pool
+PlayStation
+Sports, 
+7.000000
+  305. Virtual Pool 64
+Virtual Pool 64
+Nintendo 64
+Sports, 
+8.000000
+  306. WCW Nitro
+WCW Nitro
+PlayStation
+Wrestling, 
+7.000000
+  307. WCW vs. The World
+WCW vs. The World
+PlayStation
+Wrestling, 
+6.000000
+  308. WCW/NWO Revenge 
+WCW/NWO Revenge 
+Nintendo 64
+Wrestling, 
+8.000000
+  309. WWF Warzone
+WWF Warzone
+Nintendo 64
+Wrestling, 
+8.500000
+  310. Warhammer 40,000: Chaos Gate
+Warhammer 40,000: Chaos Gate
+PC
+Strategy, 
+7.000000
+  311. Warhammer: Dark Omen
+Warhammer: Dark Omen
+PC
+Strategy, 
+7.000000
+  312. Wayne Gretzkys 3D Hockey 98
+Wayne Gretzkys 3D Hockey 98
+Nintendo 64
+Sports, 
+5.800000
+  313. Wheel of Fortune [1998]
+Wheel of Fortune [1998]
+PlayStation
+Puzzle, 
+8.000000
+  314. Wild 9
+Wild 9
+PlayStation
+Action, 
+8.500000
+  315. Wing Commander IV: The Price of Freedom
+Wing Commander IV: The Price of Freedom
+PlayStation
+Simulation, 
+4.000000
+  316. WipEout 64
+WipEout 64
+Nintendo 64
+Racing, 
+9.100000
+  317. World Cup 98
+World Cup 98
+Nintendo 64
+Sports, 
+8.800000
+  318. X-COM: Interceptor
+X-COM: Interceptor
+PC
+Action, 
+7.000000
+  319. X-COM: UFO Defense
+X-COM: UFO Defense
+PlayStation
+Strategy, 
+9.000000
+  320. Yoot Tower
+Yoot Tower
+PC
+Strategy, 
+7.800000
+  321. Yoshis Story 
+Yoshis Story 
+Nintendo 64
+Platformer, 
+7.000000
+  322. Zero Divide
+Zero Divide
+PlayStation
+Fighting, 
+5.000000
+List has 322 items.
 List was visualized.
