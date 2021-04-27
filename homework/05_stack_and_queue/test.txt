@@ -1,0 +1,17 @@
+Enqueue Z
+Print
+Enqueue A
+Print
+Enqueue B
+Print
+Enqueue C
+Print
+Enqueue D
+Print
+ReplaceItem Q T
+Print
+ReplaceItem Z M
+Print
+Dequeue
+Print
+Quit

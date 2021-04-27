@@ -1,0 +1,22 @@
+Student Test
+Z is enqueued.
+PrintQueue: Z 
+A is enqueued.
+PrintQueue: Z A 
+B is enqueued.
+PrintQueue: Z A B 
+C is enqueued.
+PrintQueue: Z A B C 
+D is enqueued.
+PrintQueue: Z A B C D 
+FullQueue exception thrown.
+PrintQueue: Z A B C D 
+FullQueue exception thrown.
+PrintQueue: Z A B C D 
+Q was replaced with T
+PrintQueue: Z A B C D 
+Z was replaced with M
+PrintQueue: M A B C D 
+M is dequeued. 
+PrintQueue: A B C D 
+Testing completed.
