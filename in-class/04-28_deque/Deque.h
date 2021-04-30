@@ -1,7 +1,7 @@
 #ifndef DEQUE_H
 #define DEQUE_H
 
-#include "DoubleLinkedList.h"
+#include "DoublyLinkedList.h"
 
 class Deque {
 private:
@@ -13,14 +13,21 @@ public:
    
    void PushFront(int newData) {
       // TODO
+      Node* newNode = new Node(newData);
+      
+      linkedList.Prepend(newNode);
    }
    
    void PushBack(int newData) {
       // TODO
+      Node* newNode = new Node(newData);
+
+      linkedList.Append(newNode);
    }
 
    int PopFront() {
       // TODO
+      
    }
    
    int PopBack() {
@@ -29,6 +36,7 @@ public:
 
    int PeekFront() {
       // TODO
+       
    }
    
    int PeekBack() {
