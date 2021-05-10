@@ -49,10 +49,10 @@ void HeapType<ItemType>::ReheapUpIterative(int root, int bottom) {
         Swap(elements[parent], elements[bottom]);
         current = parent;
       } else {
-        return
+        return;
       }
     } else {
-      return
+      return;
     }
   } while (true);
 }
