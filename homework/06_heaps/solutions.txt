@@ -1,9 +1,0 @@
-Student Test
-5 is enqueued.
-7 is enqueued.
-6 is enqueued.
-9 is enqueued.
-9 is dequeued (iterative).
-7 is dequeued (iterative).
-6 is dequeued (iterative).
-5 is dequeued (iterative).
