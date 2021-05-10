@@ -23,20 +23,24 @@ void HeapType<ItemType>::ReheapDownIterative(int root, int bottom) {
   do {
     leftChild = current * 2 + 1;
     rightChild = current * 2 + 2;
-    if (leftChild == bottom) {
-      maxChild = leftChild;
-    } else {
-      if (elements[leftChild] <= elements[rightChild]) {
-        maxChild = rightChild;
-      } else {
+    if (leftChild <= bottom) {
+      if (leftChild == bottom) {
         maxChild = leftChild;
+      } else {
+        if (elements[leftChild] <= elements[rightChild]) {
+          maxChild = rightChild;
+        } else {
+          maxChild = leftChild;
+        }
       }
-    }
-    if (elements[current] < elements[maxChild]) {
-      Swap(elements[current], elements[maxChild]);
-      current = maxChild;
-    } else {
-      return;
+      if (elements[current] < elements[maxChild]) {
+        Swap(elements[current], elements[maxChild]);
+        current = maxChild;
+      } else {
+        return;
+      }
+    }else{
+        return;
     }
   } while (true);
 }

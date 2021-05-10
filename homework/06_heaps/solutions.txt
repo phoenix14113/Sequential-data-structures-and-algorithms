@@ -1,37 +1,9 @@
 Student Test
-Queue is empty.
-1 is enqueued.
-1 is dequeued (iterative).
-3 is enqueued.
-2 is enqueued.
-1 is enqueued.
-3 is dequeued (iterative).
-1 is dequeued (iterative).
-2 is dequeued (iterative).
-5 is enqueued.
-4 is enqueued.
-3 is enqueued.
-2 is enqueued.
-1 is enqueued.
-5 is dequeued (iterative).
-1 is dequeued (iterative).
-2 is dequeued (iterative).
-3 is dequeued (iterative).
-4 is dequeued (iterative).
-Queue is empty.
 5 is enqueued.
 7 is enqueued.
 6 is enqueued.
 9 is enqueued.
 9 is dequeued (iterative).
-5 is dequeued (iterative).
-6 is dequeued (iterative).
 7 is dequeued (iterative).
-7 is enqueued (iterative).
-5 is enqueued (iterative).
-6 is enqueued (iterative).
-8 is enqueued (iterative).
-7 is dequeued.
-8 is dequeued.
-6 is dequeued.
-5 is dequeued.
+6 is dequeued (iterative).
+5 is dequeued (iterative).
