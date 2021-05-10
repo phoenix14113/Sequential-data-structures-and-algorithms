@@ -39,8 +39,8 @@ void HeapType<ItemType>::ReheapDownIterative(int root, int bottom) {
       } else {
         return;
       }
-    }else{
-        return;
+    } else {
+      return;
     }
   } while (true);
 }
@@ -51,10 +51,10 @@ void HeapType<ItemType>::ReheapUpIterative(int root, int bottom) {
   int parent;
   int current = bottom;
   do {
-    if (current >= root) {
+    if (current > root) {
       parent = (current - 1) / 2;
-      if (elements[parent] < elements[bottom]) {
-        Swap(elements[parent], elements[bottom]);
+      if (elements[parent] < elements[current]) {
+        Swap(elements[parent], elements[current]);
         current = parent;
       } else {
         return;
