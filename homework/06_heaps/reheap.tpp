@@ -5,8 +5,8 @@
  * File Name:  reheap.tpp
  * Name:       Adam Taylor
  * Course:     CPTR 242
- * Date:       5/6/2021
- * Time Taken: 30 min.
+ * Date:       5/9/2021
+ * Time Taken: 1 hr. 30 min.
  */
 #include "Heap.h"
 
