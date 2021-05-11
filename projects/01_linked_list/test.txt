@@ -3,7 +3,8 @@ PutGame Tetris
 GetLength
 PrintList
 Visualize
-AddX 326
+MakeEmpty
+AddX 150
 PrintList
 GetLength
 Visualize

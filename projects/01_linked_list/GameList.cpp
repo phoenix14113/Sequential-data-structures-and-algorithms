@@ -119,57 +119,54 @@ void GameList::PutGame(std::string title, std::string gameDetails,
     length++;
   } else {
     // not empty list
-    ResetList();
-    SLelement<std::string> *previous = new SLelement<std::string>;
+    SLelement<std::string> *current = listData;
+    SLelement<std::string> *previous = nullptr;
     for (int i = 1; i <= length; i++) {
-      if (currentPos->getValue() > title &&
-          currentPos->getValue() == listData->getValue()) {
+      if (current->getValue() > title &&
+          current->getValue() == listData->getValue()) {
         // first node case
         // insert the new node before the first node greater than it
-        newGame->setNext(currentPos);
-        previous->setNext(newGame);
+        newGame->setNext(current);
         listData = newGame;
         length++;
         break;
-      } else if (currentPos->getValue() > title) {
+      } else if (current->getValue() > title) {
         // insert the new node before the first node greater than it
-        newGame->setNext(currentPos);
+        newGame->setNext(current);
         previous->setNext(newGame);
         length++;
         break;
       } else if (i == length) {
         // final element case
-        currentPos->setNext(newGame);
+        current->setNext(newGame);
         length++;
         break;
       } else {
         // compare next node
-        previous = currentPos;
-        currentPos = currentPos->getNext();
+        previous = current;
+        current = current->getNext();
       }
     }
   }
-  ResetList();
 }
 
 void GameList::GetGame(std::string title, std::string &gameDetails,
                        bool &found) {
   // determine if title is in the list
+  SLelement<std::string> *current = listData;
   found = false;
   for (int i = 0; i < length; i++) {
-    if (currentPos->getValue() == title) {
+    if (current->getValue() == title) {
       // if it is the current node
-      gameDetails = currentPos->getValue();
+      gameDetails = current->getLabel(); // **** changed gameDetails = currentPos->getValue();
       found = true;
-      ResetList();
       return;
-    } else if (currentPos->getValue() > title) {
+    } else if (current->getValue() > title) {
       // if the current node is greater it won't be in the list
-      ResetList();
       return;
     }
     // if it is neither equal to or greater than compare the next element
-    currentPos = currentPos->getNext();
+    current = current->getNext();
   }
 }
 
@@ -181,7 +178,7 @@ void GameList::DeleteGame(std::string title) {
   for (int i = 0; i < length; i++) {
     if (current->getValue() == title) {
       // if it is in the list delete it
-      if (current = listData) {
+      if (current == listData) { //********* <- changed "current = listData"
         // first node case
         listData = current->getNext();
         delete current;
@@ -199,9 +196,8 @@ void GameList::DeleteGame(std::string title) {
       break;
     }
     previous = current;
-    currentPos = current->getNext();
+    current = current->getNext(); // ******** changed currentPos = current->getNext();
   }
-  ResetList();
 }
 
 void GameList::ResetList() {
