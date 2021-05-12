@@ -31,9 +31,9 @@ GameList::~GameList() {
 bool GameList::IsFull() const {
   // Returns true if there is no room for another actor
   //  on the free store; false otherwise.
-  SLelement<string> *location;
+  bridges::SLelement<string> *location;
   try {
-    location = new SLelement<string>;
+    location = new bridges::SLelement<string>;
     delete location;
     return false;
   } catch (std::bad_alloc exception) {
@@ -48,9 +48,9 @@ int GameList::GetLength() const {
 
 void GameList::MakeEmpty() {
   // TODO Add code here.
-  SLelement<string> *currentNode = listData;
+  bridges::SLelement<string> *currentNode = listData;
   while (currentNode) {
-    SLelement<string> *toBeDeleted = currentNode;
+    bridges::SLelement<string> *toBeDeleted = currentNode;
     currentNode = currentNode->getNext();
     delete toBeDeleted;
   }
@@ -63,7 +63,7 @@ SLelement<string> *GameList::GetHead() { return listData; }
 void GameList::PutGame(std::string title, std::string gameDetails,
                        double rating) {
   // create new node.
-  SLelement<std::string> *newGame = new SLelement<std::string>;
+  bridges::SLelement<std::string> *newGame = new bridges::SLelement<std::string>;
   newGame->setLabel(title + "\n" + gameDetails);
   newGame->setValue(title);
 
@@ -119,8 +119,8 @@ void GameList::PutGame(std::string title, std::string gameDetails,
     length++;
   } else {
     // not empty list
-    SLelement<std::string> *current = listData;
-    SLelement<std::string> *previous = nullptr;
+    bridges::SLelement<std::string> *current = listData;
+    bridges::SLelement<std::string> *previous = nullptr;
     for (int i = 1; i <= length; i++) {
       if (current->getValue() > title &&
           current->getValue() == listData->getValue()) {
@@ -153,7 +153,7 @@ void GameList::PutGame(std::string title, std::string gameDetails,
 void GameList::GetGame(std::string title, std::string &gameDetails,
                        bool &found) {
   // determine if title is in the list
-  SLelement<std::string> *current = listData;
+  bridges::SLelement<std::string> *current = listData;
   found = false;
   for (int i = 0; i < length; i++) {
     if (current->getValue() == title) {
@@ -172,8 +172,8 @@ void GameList::GetGame(std::string title, std::string &gameDetails,
 
 void GameList::DeleteGame(std::string title) {
   // find and delete a node
-  SLelement<std::string> *previous = nullptr;
-  SLelement<std::string> *current = listData;
+  bridges::SLelement<std::string> *previous = nullptr;
+  bridges::SLelement<std::string> *current = listData;
   // search the list for the element
   for (int i = 0; i < length; i++) {
     if (current->getValue() == title) {
