@@ -76,7 +76,7 @@ public:
   // Post: Current position is updated to next position.
   //       item is a copy of element at current position.
 
-  bridges::SLelement<std::string> GetHead();
+  bridges::SLelement<std::string> *GetHead();
   // Function: Returns the pointer to the beginning of the list.
   // Pre:  List has been initialized.
   // Post: List pointer is returned.
