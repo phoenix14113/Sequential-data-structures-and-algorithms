@@ -92,7 +92,7 @@ void GameList::PutGame(std::string title, std::string gameDetails,
   } else if (rating < 10) {
     size = 45.5f;
   } else {
-    size = 60.0f;
+    size = 50.0f;
   }
   newGame->getVisualizer()->setSize(size);
 
