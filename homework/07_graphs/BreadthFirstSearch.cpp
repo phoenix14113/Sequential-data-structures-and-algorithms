@@ -9,14 +9,47 @@
  */
 
 #include "GraphType.h"
+#include "QueueType.h"
+#include <iostream>
 #include <map>
+#include <queue>
+#include <unordered_set>
+#include <vector>
 
 template <class VertexType>
 map<VertexType, int>
 GraphType<VertexType>::BreadthFirstSearch(VertexType startVertex) {
+  unordered_set<VertexType> discoveredSet;
   map<VertexType, int> distance;
+  queue<VertexType> frontierQueue;
+  QueueType<VertexType> adjacent;
+  vector<VertexType> visitedList;
 
-  // TODO Implement Breadth-First Search hereS
+  distance.emplace(startVertex, 0);
+
+  frontierQueue.push(startVertex);   // Enqueue startVertex in frontierQueue
+  discoveredSet.insert(startVertex); // Add startVertex to discoveredSet
+
+  while (frontierQueue.size() > 0) {
+    VertexType currentVertex = frontierQueue.front();
+    frontierQueue.pop();
+    visitedList.push_back(currentVertex);
+    GetToVertices(currentVertex, adjacent);
+    // std::cout << IndexIs(currentVertex)<< std::endl;
+    while (!adjacent.IsEmpty()) {
+
+      VertexType adjacentVertex;
+
+      adjacent.Dequeue(adjacentVertex);
+      if (0 == discoveredSet.count(adjacentVertex)) {
+        frontierQueue.push(adjacentVertex);
+        discoveredSet.insert(adjacentVertex);
+
+        // Distance of adjacentVertex is 1 more than currentVertex
+        distance.emplace(adjacentVertex, distance[currentVertex] + 1);
+      }
+    }
+  }
 
   return distance;
 }
