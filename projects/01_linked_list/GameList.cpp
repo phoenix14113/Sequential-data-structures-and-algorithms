@@ -58,7 +58,7 @@ void GameList::MakeEmpty() {
   ResetList();
 }
 
-bridges::SLelement<string>* GameList::GetHead() { return listData; }
+SLelement<string> *GameList::GetHead() { return listData; }
 
 void GameList::PutGame(std::string title, std::string gameDetails,
                        double rating) {
