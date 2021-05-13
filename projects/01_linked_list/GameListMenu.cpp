@@ -83,7 +83,7 @@ void GameListMenu(std::istream &inStream, std::ostream &outStream,
   unordered_map<std::string, am_obj> am_map;
   int max_gameDetails = 0;
   for (auto im : am_game) {
-    std::string gameDetail = im.getPlatformType() + "\n";
+    std::string gameDetail = im.getTitle() + "\n" + im.getPlatformType() + "\n";
     for (std::string genre : im.getGameGenre()) {
       gameDetail += genre + ", ";
     }

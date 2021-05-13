@@ -65,7 +65,7 @@ void GameList::PutGame(std::string title, std::string gameDetails,
   // create new node.
   bridges::SLelement<std::string> *newGame =
       new bridges::SLelement<std::string>;
-  newGame->setLabel(title + "\n" + gameDetails);
+  newGame->setLabel(gameDetails);
   newGame->setValue(title);
 
   // visualization customization

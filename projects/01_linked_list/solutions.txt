@@ -1,5 +1,6 @@
 Student Test
 Added 2000 games.
+List was visualized.
 Game Cyberia was found.
 Cyberia
 PlayStation
