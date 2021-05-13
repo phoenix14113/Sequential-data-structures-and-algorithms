@@ -63,7 +63,8 @@ SLelement<string> *GameList::GetHead() { return listData; }
 void GameList::PutGame(std::string title, std::string gameDetails,
                        double rating) {
   // create new node.
-  bridges::SLelement<std::string> *newGame = new bridges::SLelement<std::string>;
+  bridges::SLelement<std::string> *newGame =
+      new bridges::SLelement<std::string>;
   newGame->setLabel(title + "\n" + gameDetails);
   newGame->setValue(title);
 
@@ -158,7 +159,8 @@ void GameList::GetGame(std::string title, std::string &gameDetails,
   for (int i = 0; i < length; i++) {
     if (current->getValue() == title) {
       // if it is the current node
-      gameDetails = current->getLabel(); // **** changed gameDetails = currentPos->getValue();
+      gameDetails = current->getLabel(); // **** changed gameDetails =
+                                         // currentPos->getValue();
       found = true;
       return;
     } else if (current->getValue() > title) {
@@ -196,7 +198,8 @@ void GameList::DeleteGame(std::string title) {
       break;
     }
     previous = current;
-    current = current->getNext(); // ******** changed currentPos = current->getNext();
+    current =
+        current->getNext(); // ******** changed currentPos = current->getNext();
   }
 }
 
