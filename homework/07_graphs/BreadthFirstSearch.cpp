@@ -23,8 +23,7 @@ GraphType<VertexType>::BreadthFirstSearch(VertexType startVertex) {
   map<VertexType, int> distance;
   queue<VertexType> frontierQueue;
   QueueType<VertexType> adjacent;
-  vector<VertexType> visitedList;
-
+  
   distance.emplace(startVertex, 0);
 
   frontierQueue.push(startVertex);   // Enqueue startVertex in frontierQueue
@@ -33,9 +32,8 @@ GraphType<VertexType>::BreadthFirstSearch(VertexType startVertex) {
   while (frontierQueue.size() > 0) {
     VertexType currentVertex = frontierQueue.front();
     frontierQueue.pop();
-    visitedList.push_back(currentVertex);
     GetToVertices(currentVertex, adjacent);
-    // std::cout << IndexIs(currentVertex)<< std::endl;
+    
     while (!adjacent.IsEmpty()) {
 
       VertexType adjacentVertex;
