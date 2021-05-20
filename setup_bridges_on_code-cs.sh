@@ -17,10 +17,10 @@ cd include
 #   http://bridgesuncc.github.io/
 #
 # Download BRIDGES
-wget http://bridgesuncc.github.io/sw/bridges-cxx-3.0.1-x86_64-linux-gnu.tgz
+wget http://bridgesuncc.github.io/sw/bridges-cxx-3.2.1-x86_64-linux-gnu.tgz
 # Extract BRIDGES
-tar -xzf bridges-cxx-3.0.1-x86_64-linux-gnu.tgz
-mv bridges-cxx-3.0.1-x86_64-linux-gnu bridges
+tar -xzf bridges-cxx-3.2.1-x86_64-linux-gnu.tgz
+mv bridges-cxx-3.2.1-x86_64-linux-gnu bridges
 
 # Second download and install the CURL library
 #  - The CURL site has the download file for different system with instructions.

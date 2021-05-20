@@ -14,7 +14,6 @@
 #include <map>
 #include <queue>
 #include <unordered_set>
-#include <vector>
 
 template <class VertexType>
 map<VertexType, int>
