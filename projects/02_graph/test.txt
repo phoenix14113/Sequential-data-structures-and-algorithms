@@ -34,5 +34,6 @@ Visualize
 GetBaconNumber Billy_Bob_Thornton Kevin_Bacon_(I)
 Visualize
 ResetVisualizer
+GetBaconNumber Adam_Sandler_(I) Kevin_Bacon_(I)
 Visualize
 Quit

@@ -29,5 +29,6 @@ Graph was visualized.
 Graph was visualized.
 Billy_Bob_Thornton and Kevin_Bacon_(I) have a Bacon Number of 3.
 Graph was visualized.
+Adam_Sandler_(I) and Kevin_Bacon_(I) have a Bacon Number of 2.
 Graph was visualized.
 Test Complete.

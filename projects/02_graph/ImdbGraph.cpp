@@ -3,9 +3,9 @@
  * Project: ImdbGraph implementation
  *
  * File Name: ImdbGraph.cpp
- * Name:      ??
+ * Name:      Adam Taylor
  * Course:    CPTR 242
- * Date:      ??
+ * Date:      5/20/2021
  *
  */
 #include <iostream>
@@ -58,7 +58,7 @@ void ImdbGraph::AddEdge(string actorOrMovie, string movieOrActor2) {
 // Post: The vertex will display the new color.
 void ImdbGraph::setVertexColor(string actorOrMovie, string color) {
   graph.getVisualizer(actorOrMovie)->setColor(color);
-  graph.getVisualizer(actorOrMovie)->setSize(30.0);
+  graph.getVisualizer(actorOrMovie)->setSize(50.0);
 }
 
 // Function: Updates the visualization for to edge.
