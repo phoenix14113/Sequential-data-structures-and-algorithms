@@ -34,11 +34,15 @@ bool ImdbGraph::doesEdgeExist(string actorOrMovie1, string actorOrMovie2) {
   bool vertexOneExist = (vertices->find(actorOrMovie1) != vertices->end());
   bool vertexTwoExist = (vertices->find(actorOrMovie2) != vertices->end());
   if (vertexOneExist && vertexTwoExist) {
-    std::string vertexStart =
-        graph.getEdge(actorOrMovie1, actorOrMovie2).from();
-    std::string vertexEnd = graph.getEdge(actorOrMovie1, actorOrMovie2).to();
-    if (vertexStart == actorOrMovie1 && vertexEnd == actorOrMovie2) {
-      isEdge = true;
+    try {
+      std::string vertexStart =
+          graph.getEdge(actorOrMovie1, actorOrMovie2).from();
+      std::string vertexEnd = graph.getEdge(actorOrMovie1, actorOrMovie2).to();
+      if (vertexStart == actorOrMovie1 && vertexEnd == actorOrMovie2) {
+        isEdge = true;
+      }
+    } catch (char const *ex) {
+      return false;
     }
   }
   return isEdge;

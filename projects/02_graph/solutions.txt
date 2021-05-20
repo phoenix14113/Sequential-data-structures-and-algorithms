@@ -1,0 +1,33 @@
+Student Test
+Select options
+AddVertex <actorOrMovie>. Add Vertex to the graph.
+AddActor <actorOrMovie>. Add Actor to the graph.
+AddEdge <actorOrMovie> <actorOrMovie>. Add edge to the graph.
+GetBaconNumber <actor1> <actor2>. Calculates the Bacon Number.
+setVertexColor <actorOrMovie> <color>. Change the color of the vertex.
+setEdgeColor <actorOrMovie> <actorOrMovie> <color>. Change the color of the edge.
+ResetVisualizer. Reset the visualization of all edges and vertices.
+Visualize. Builds the bridges visualization and prints the URL.
+AddAll. Adds all actors and movies to the graph.
+doesVertexExist <actorOrMovie>. Returns a boolean if Vertex exist in graph.
+getVertexColor <actorOrMovie>. Returns vertex Color in hexadecimal.
+doesEdgeExist <actorOrMovie> <actorOrMovie>. Returns a boolean if edge exist betweem two vertexs in graph.
+getEdgeColor <actorOrMovie> <actorOrMovie>. Returns edge Color in hexadecimal.
+checkDefaultVisualization. Returns a boolean if nodes in graph are resetted to default values
+Print. Prints
+Quit. Quit application.
+Menu. Display menu.
+Graph was visualized.
+Actor Billy_Bob_Thornton was found and 55 movies have been added.
+Actor Adam_Sandler_(I) was found and 33 movies have been added.
+Actor Bill_Murray_(I) was found and 56 movies have been added.
+Actor Kevin_Bacon_(I) was found and 57 movies have been added.
+Graph was visualized.
+Graph was visualized.
+All actors and movies have been added.
+Graph was visualized.
+Graph was visualized.
+Billy_Bob_Thornton and Kevin_Bacon_(I) have a Bacon Number of 3.
+Graph was visualized.
+Graph was visualized.
+Test Complete.
