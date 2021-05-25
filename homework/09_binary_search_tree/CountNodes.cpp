@@ -3,10 +3,10 @@
  * Homework: Implement three functions for counting tree nodes
  *
  * File Name:  CountNodes.cpp
- * Name:       ?
+ * Name:       Adam Taylor
  * Course:     CPTR 242
- * Date:       ?
- * Time Taken: ?
+ * Date:       5/25/2021
+ * Time Taken: 1 hour
  *
  */
 #include "TreeType.h"
