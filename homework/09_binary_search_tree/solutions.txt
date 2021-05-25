@@ -1,0 +1,25 @@
+Student Test
+Menu options:
+  CountLeaves. Number of leaf nodes in the tree is returned
+  CountSingleChildren. Number of nodes with only a single child returned.
+  CountGreaterThan <value>. Number of nodes with values greater than input value returned.
+  PutItem <item>. Places item in Binary Tree
+  DeleteItem <item>. Deletes item from Binary Tree
+  GetItem <item>. Returns a boolean variable if item is found in Binary Tree
+  GetLength. Returns length of Binary Tree
+  GetNextItem <order>. Returns the next item in the desired order.
+  IsFull. Returns a boolean variable if Binary Tree is full
+  ResetTree <order>. Resets Binary Tree depending on user order
+  PrintTree. Prints Binary Tree
+  MakeEmpty. Empty Graph
+  Quit. Quit application.
+  Menu. Display menu.
+D is inserted
+C is inserted
+M is inserted
+Number of nodes is 3
+CDM
+There are 2 leaves in the tree.
+There are 0 single children in the tree.
+There are 3 nodes greater than A in the tree.
+Testing completed.

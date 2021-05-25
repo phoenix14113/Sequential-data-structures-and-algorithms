@@ -1,0 +1,10 @@
+Menu
+PutItem D
+PutItem C
+PutItem M
+GetLength
+PrintTree
+CountLeaves
+CountSingleChildren
+CountGreaterThan A
+Quit

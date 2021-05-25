@@ -50,6 +50,9 @@ public:
   int CountGreaterThan(ItemType value);
 
 private:
+int CountLeavesRecusive(TreeNode *tree);
+int CountSingleChildrenRecusive(TreeNode *tree);
+void FindItemGreaterThan(TreeNode *tree, ItemType value, int &total);
   TreeNode *root;
   QueType preQue;
   QueType inQue;
