@@ -48,11 +48,11 @@ public:
 
   // Post: Number of nodes with values greater than input value returned.
   int CountGreaterThan(ItemType value);
+  int CountLeavesRecusive(TreeNode *tree);
+  int CountSingleChildrenRecusive(TreeNode *tree);
+  void FindItemGreaterThan(TreeNode *tree, ItemType value, int &total);
 
 private:
-int CountLeavesRecusive(TreeNode *tree);
-int CountSingleChildrenRecusive(TreeNode *tree);
-void FindItemGreaterThan(TreeNode *tree, ItemType value, int &total);
   TreeNode *root;
   QueType preQue;
   QueType inQue;
