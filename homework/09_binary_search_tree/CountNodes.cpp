@@ -40,9 +40,10 @@ int CountSingleChildrenRecusive(TreeNode *tree) {
   // TODO Implement function
   if (tree == NULL) {
     return 0;
-  } else if ((tree->left == NULL && tree->right != NULL) ||
-             (tree->left != NULL && tree->right == NULL)) {
-    return 1;
+  } else if ((tree->left == NULL && tree->right != NULL)) {
+    return 1 + CountSingleChildrenRecusive(tree->right);
+  } else if ((tree->left != NULL && tree->right == NULL)) {
+    return CountSingleChildrenRecusive(tree->left) + 1;
   } else {
     return CountSingleChildrenRecusive(tree->left) +
            CountSingleChildrenRecusive(tree->right);
