@@ -10,13 +10,16 @@
  *
  */
 #include "TreeType.h"
+int CountLeavesRecusive(TreeNode *tree);
+int CountSingleChildrenRecusive(TreeNode *tree);
+void FindItemGreaterThan(TreeNode *tree, ItemType value, int &total);
 // Post: Number of leaf nodes in the tree is returned.
 // Calls recursive function to count the number of leaf nodes.
 int TreeType::CountLeaves() {
   // TODO Implement function
   return CountLeavesRecusive(root);
 }
-int TreeType::CountLeavesRecusive(TreeNode *tree) {
+int CountLeavesRecusive(TreeNode *tree) {
   // TODO Implement function
   if (tree == NULL) {
     return 0;
@@ -33,7 +36,7 @@ int TreeType::CountSingleChildren() {
   // TODO Implement function
   return CountSingleChildrenRecusive(root);
 }
-int TreeType::CountSingleChildrenRecusive(TreeNode *tree) {
+int CountSingleChildrenRecusive(TreeNode *tree) {
   // TODO Implement function
   if (tree == NULL) {
     return 0;
@@ -54,7 +57,7 @@ int TreeType::CountGreaterThan(ItemType value) {
   FindItemGreaterThan(root, value, total);
   return total;
 }
-void TreeType::FindItemGreaterThan(TreeNode *tree, ItemType value, int &total) {
+void FindItemGreaterThan(TreeNode *tree, ItemType value, int &total) {
   if (tree != NULL) {
     FindItemGreaterThan(tree->left, value, total);
     if (tree->info > value) {
