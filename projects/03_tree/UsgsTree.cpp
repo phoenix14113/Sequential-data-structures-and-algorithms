@@ -3,9 +3,9 @@
  * Project: UsgsTree implementation
  *
  * File Name: UsgsTree.cpp
- * Name:      ??
+ * Name:      Adam Taylor
  * Course:    CPTR 242
- * Date:      ??
+ * Date:      6/02/2021
  *
  */
 #include "UsgsTree.h"
