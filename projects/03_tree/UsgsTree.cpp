@@ -70,6 +70,7 @@ int UsgsTree::countRange(float min, float max,
   } else if (root->getKey() >= max) {
     return countRange(min, max, root->getLeft(), color);
   }
+  return 0;
 }
 // Function:  Finds all nodes in the BST that in the specified location.
 // Pre:  BST has been initialized and populated.
@@ -87,6 +88,7 @@ int UsgsTree::countByLocation(std::string location,
     return countByLocation(location, root->getLeft(), color) +
            countByLocation(location, root->getRight(), color);
   }
+  return 0;
 }
 
 // Function: Updates all nodes and edges with a visualization.
