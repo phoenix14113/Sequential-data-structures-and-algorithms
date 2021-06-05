@@ -13,8 +13,3 @@ Menu options:
   Menu. Display menu.
 100 quakes have been added.
 Tree was visualized.
-The tree has 79 quakes between 1 and 3.
-Tree was visualized.
-Tree has been resetted correctly
-Tree was visualized.
-Test Complete.

@@ -61,13 +61,13 @@ int UsgsTree::countRange(float min, float max,
                          std::string color) {
   if (root == nullptr) {
     return 0;
-  } else if (root->getKey() > min && root->getKey() < max) {
+  } else if (root->getKey() >= min && root->getKey() <= max) {
     root->getVisualizer()->setColor(color);
     return 1 + countRange(min, max, root->getLeft(), color) +
            countRange(min, max, root->getRight(), color);
-  } else if (root->getKey() <= min) {
+  } else if (root->getKey() < min) {
     return countRange(min, max, root->getRight(), color);
-  } else if (root->getKey() >= max) {
+  } else if (root->getKey() > max) {
     return countRange(min, max, root->getLeft(), color);
   }
   return 0;

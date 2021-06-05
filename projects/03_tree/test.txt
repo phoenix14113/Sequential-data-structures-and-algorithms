@@ -1,7 +1,7 @@
 Menu
 BuildTree 100
 Visualize
-CountRange 1 3 yellow
+CountByLocation Alaska yellow
 Visualize
 ResetVisualization
 Visualize
