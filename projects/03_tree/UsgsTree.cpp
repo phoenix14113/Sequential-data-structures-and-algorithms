@@ -98,8 +98,8 @@ int UsgsTree::countWithStyle(BSTElement<float, EarthquakeUSGS> *root,
                              std::string colorVertex, std::string colorEdge) {
   if (root != nullptr) {
     root->getVisualizer()->setColor(colorVertex);
-    return 1 + countWithStyle(root->getLeft(),colorVertex,colorEdge) +
-           countWithStyle(root->getRight(),colorVertex,colorEdge);
+    return 1 + countWithStyle(root->getLeft(), colorVertex, colorEdge) +
+           countWithStyle(root->getRight(), colorVertex, colorEdge);
   } else {
     return 0;
   }
