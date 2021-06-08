@@ -83,11 +83,9 @@ int UsgsTree::countByLocation(std::string location,
   } else if (root->getValue().getLocation().find(location) !=
              std::string::npos) {
     root->getVisualizer()->setColor(color);
-    cout << "hi1" << endl;
     return 1 + countByLocation(location, root->getLeft(), color) +
            countByLocation(location, root->getRight(), color);
   } else {
-    cout << "hi2" << endl;
     return countByLocation(location, root->getLeft(), color) +
            countByLocation(location, root->getRight(), color);
   }
