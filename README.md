@@ -56,3 +56,4 @@ git merge upstream/master -m "automerging"
 ## Git Cheat Sheet
 
 A basic [cheat sheet](https://www.git-tower.com/blog/git-cheat-sheet/) for command on [git](https://git-scm.com/).
+"# Sequential-data-structs-algorithms" 
